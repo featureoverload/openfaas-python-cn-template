@@ -1,0 +1,1 @@
+# openfaas-python-cn-template
